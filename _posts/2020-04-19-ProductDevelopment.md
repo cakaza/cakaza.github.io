@@ -9,7 +9,7 @@ excerpt_separator: <!--more-->
 categories: [product management]
 ---
 
-People have been developing products since aeons. What is the thinking needed to develop a product? A general framework is discussed here.
+Product Development
 
 
 
